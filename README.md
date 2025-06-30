@@ -1,2 +1,3 @@
-# Stock-Growth-Partner-
-Forex Broker 
+📄 index.html
+📄 style.css
+📄 images/
